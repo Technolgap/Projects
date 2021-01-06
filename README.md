@@ -10,7 +10,7 @@ List of project(s) and what needs to be done.
 - [ ] Footer not stuck on bottom 
 
 ### Improvements
-- [ ] Calendar's UI (currently using Google Calendars)  
+- [ ] Calendar's UI (currently using Google Calendars but the long-term goal is to work towards creating our own)  
 
 ### Need Updating 
 - [ ] Possible updated description in first page 
@@ -24,4 +24,14 @@ List of project(s) and what needs to be done.
 - [ ] `Recent activities` section with Instagram and Twitter 
 
 ## Slack Bots 
-### Coffee Chat 
+### Game SlackBot 
+* Moving towards trying to make a game where you guess what the animal is 
+
+## Other Issues
+### Figuring how people how to get people motivated and committed to working on their projects 
+<b> Brainstorm: </b> 
+- Working together on an issue (motivation + encouragement) == pair-programming
+- Virutal check-in's 
+
+<b> What we tried: </b> 
+- Setting "office hours" 
