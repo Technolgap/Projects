@@ -31,7 +31,7 @@ List of project(s) and what needs to be done.
 ### Figuring how people how to get people motivated and committed to working on their projects 
 <b> Brainstorm: </b> 
 - Working together on an issue (motivation + encouragement) == pair-programming
-- Virutal check-in's 
+- Virutal check-in's `ex/ message people their progress` 
 
 <b> What we tried: </b> 
 - Setting "office hours" 
