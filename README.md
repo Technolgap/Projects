@@ -18,7 +18,9 @@ List of project(s) and what needs to be done.
 * Will need someone (likely from the Design Team) to create these icons 
 
 ### Incomplete Features 
-- [ ] Footer 
-- [ ] "Recent activities" section with Instagram and Twitter 
+- [ ] Footer to include links of each social media 
+* Currently talking to Margie (@monica-vu) about this since she had some work done 
+- [ ] `Recent activities` section with Instagram and Twitter 
 
 ## Slack Bots 
+### Coffee Chat 
